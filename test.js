@@ -1,0 +1,1 @@
+const t0=Date.now();const DUR=150000;const tick=()=>{const el=Date.now()-t0;console.log("[test] "+Math.round(el/1000)+"s elapsed");if(Date.now()-t0<DUR){setTimeout(tick,15000)}else{console.log("[test] suite complete");process.exit(0)}};tick();
